@@ -1,4 +1,3 @@
-```python
 from collections import defaultdict, deque
 import math
 
@@ -36,4 +35,4 @@ max_edge_weight = 5
 
 shortest_distances = dijkstra_with_buckets(graph, start_node, max_edge_weight)
 print(shortest_distances)
-```
+
